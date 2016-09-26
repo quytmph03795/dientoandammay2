@@ -1,0 +1,16 @@
+{
+  "name": "dientoandammay2",
+  "description": "",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
